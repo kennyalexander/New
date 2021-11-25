@@ -19,7 +19,7 @@ public class Proyecto_Cooperativo {
         
         
         /*Kenny agrega tu print bajo esta linea*/
-        
+        System.out.println("hola georgi");
         
         
         /*Jorge agrega tu print bajo esta linea*/
