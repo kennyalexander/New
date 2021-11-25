@@ -23,7 +23,7 @@ public class Proyecto_Cooperativo {
         
         
         /*Jorge agrega tu print bajo esta linea*/
-        
+        System.out.println("wajajaj ");
         
     }
     
